@@ -4,3 +4,4 @@
 - read from AP world and CS book
 - finish up code war repo
 - piano
+- Khan Academy biotechnology
