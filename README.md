@@ -4,6 +4,7 @@
 - read from AP world and CS book
 - finish up code war repo
 - piano
+
 03/05/19
 - read some of AP CS book
 - work of biology project
