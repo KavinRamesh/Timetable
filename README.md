@@ -7,7 +7,7 @@
 
 03/05/19
 - read some of AP CS book
-- work of biology project
+- work on biology project
 - edit English research paper intro paragraph
 - Khan acadamy genetic engineering
 - Spanish
