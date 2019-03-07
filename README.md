@@ -12,3 +12,6 @@
 - Khan acadamy genetic engineering
 - Spanish
 
+03/06/19
+- work on biology project
+- edit english research paper
